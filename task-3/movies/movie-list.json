@@ -1,0 +1,1002 @@
+"[ {
+    "title": "\n      1.\n      The Shawshank Redemption\n        (1994)\n    ",
+    "rating": "\n            9.2\n    ",
+    "ratingTooltip": "9.2 based on 1,761,024 user ratings"
+}, {
+    "title": "\n      2.\n      The Godfather\n        (1972)\n    ",
+    "rating": "\n            9.2\n    ",
+    "ratingTooltip": "9.2 based on 1,202,626 user ratings"
+}, {
+    "title": "\n      3.\n      The Godfather: Part II\n        (1974)\n    ",
+    "rating": "\n            9.0\n    ",
+    "ratingTooltip": "9.0 based on 826,042 user ratings"
+}, {
+    "title": "\n      4.\n      The Dark Knight\n        (2008)\n    ",
+    "rating": "\n            8.9\n    ",
+    "ratingTooltip": "8.9 based on 1,743,854 user ratings"
+}, {
+    "title": "\n      5.\n      12 Angry Men\n        (1957)\n    ",
+    "rating": "\n            8.9\n    ",
+    "ratingTooltip": "8.9 based on 472,843 user ratings"
+}, {
+    "title": "\n      6.\n      Schindler's List\n        (1993)\n    ",
+    "rating": "\n            8.9\n    ",
+    "ratingTooltip": "8.9 based on 902,566 user ratings"
+}, {
+    "title": "\n      7.\n      Pulp Fiction\n        (1994)\n    ",
+    "rating": "\n            8.9\n    ",
+    "ratingTooltip": "8.9 based on 1,379,004 user ratings"
+}, {
+    "title": "\n      8.\n      The Lord of the Rings: The Return of the King\n        (2003)\n    ",
+    "rating": "\n            8.9\n    ",
+    "ratingTooltip": "8.9 based on 1,264,688 user ratings"
+}, {
+    "title": "\n      9.\n      The Good, the Bad and the Ugly\n        (1966)\n    ",
+    "rating": "\n            8.8\n    ",
+    "ratingTooltip": "8.8 based on 523,719 user ratings"
+}, {
+    "title": "\n      10.\n      Fight Club\n        (1999)\n    ",
+    "rating": "\n            8.8\n    ",
+    "ratingTooltip": "8.8 based on 1,407,543 user ratings"
+}, {
+    "title": "\n      11.\n      The Lord of the Rings: The Fellowship of the Ring\n        (2001)\n    ",
+    "rating": "\n            8.8\n    ",
+    "ratingTooltip": "8.8 based on 1,286,664 user ratings"
+}, {
+    "title": "\n      12.\n      Star Wars: Episode V - The Empire Strikes Back\n        (1980)\n    ",
+    "rating": "\n            8.7\n    ",
+    "ratingTooltip": "8.7 based on 878,571 user ratings"
+}, {
+    "title": "\n      13.\n      Forrest Gump\n        (1994)\n    ",
+    "rating": "\n            8.7\n    ",
+    "ratingTooltip": "8.7 based on 1,313,994 user ratings"
+}, {
+    "title": "\n      14.\n      Inception\n        (2010)\n    ",
+    "rating": "\n            8.7\n    ",
+    "ratingTooltip": "8.7 based on 1,535,464 user ratings"
+}, {
+    "title": "\n      15.\n      The Lord of the Rings: The Two Towers\n        (2002)\n    ",
+    "rating": "\n            8.7\n    ",
+    "ratingTooltip": "8.7 based on 1,145,810 user ratings"
+}, {
+    "title": "\n      16.\n      One Flew Over the Cuckoo's Nest\n        (1975)\n    ",
+    "rating": "\n            8.7\n    ",
+    "ratingTooltip": "8.7 based on 706,522 user ratings"
+}, {
+    "title": "\n      17.\n      Goodfellas\n        (1990)\n    ",
+    "rating": "\n            8.7\n    ",
+    "ratingTooltip": "8.7 based on 759,437 user ratings"
+}, {
+    "title": "\n      18.\n      The Matrix\n        (1999)\n    ",
+    "rating": "\n            8.7\n    ",
+    "ratingTooltip": "8.7 based on 1,267,743 user ratings"
+}, {
+    "title": "\n      19.\n      Seven Samurai\n        (1954)\n    ",
+    "rating": "\n            8.6\n    ",
+    "ratingTooltip": "8.6 based on 238,301 user ratings"
+}, {
+    "title": "\n      20.\n      Star Wars: Episode IV - A New Hope\n        (1977)\n    ",
+    "rating": "\n            8.6\n    ",
+    "ratingTooltip": "8.6 based on 952,422 user ratings"
+}, {
+    "title": "\n      21.\n      City of God\n        (2002)\n    ",
+    "rating": "\n            8.6\n    ",
+    "ratingTooltip": "8.6 based on 553,645 user ratings"
+}, {
+    "title": "\n      22.\n      Se7en\n        (1995)\n    ",
+    "rating": "\n            8.6\n    ",
+    "ratingTooltip": "8.6 based on 1,070,363 user ratings"
+}, {
+    "title": "\n      23.\n      The Silence of the Lambs\n        (1991)\n    ",
+    "rating": "\n            8.6\n    ",
+    "ratingTooltip": "8.6 based on 930,364 user ratings"
+}, {
+    "title": "\n      24.\n      It's a Wonderful Life\n        (1946)\n    ",
+    "rating": "\n            8.6\n    ",
+    "ratingTooltip": "8.6 based on 290,863 user ratings"
+}, {
+    "title": "\n      25.\n      The Usual Suspects\n        (1995)\n    ",
+    "rating": "\n            8.6\n    ",
+    "ratingTooltip": "8.6 based on 771,851 user ratings"
+}, {
+    "title": "\n      26.\n      Life Is Beautiful\n        (1997)\n    ",
+    "rating": "\n            8.6\n    ",
+    "ratingTooltip": "8.6 based on 443,095 user ratings"
+}, {
+    "title": "\n      27.\n      La La Land\n        (2016)\n    ",
+    "rating": "\n            8.6\n    ",
+    "ratingTooltip": "8.6 based on 95,928 user ratings"
+}, {
+    "title": "\n      28.\n      Léon: The Professional\n        (1994)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 758,726 user ratings"
+}, {
+    "title": "\n      29.\n      Spirited Away\n        (2001)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 442,261 user ratings"
+}, {
+    "title": "\n      30.\n      Saving Private Ryan\n        (1998)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 921,988 user ratings"
+}, {
+    "title": "\n      31.\n      Once Upon a Time in the West\n        (1968)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 225,532 user ratings"
+}, {
+    "title": "\n      32.\n      American History X\n        (1998)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 814,157 user ratings"
+}, {
+    "title": "\n      33.\n      Interstellar\n        (2014)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 998,881 user ratings"
+}, {
+    "title": "\n      34.\n      Casablanca\n        (1942)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 402,347 user ratings"
+}, {
+    "title": "\n      35.\n      Psycho\n        (1960)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 441,401 user ratings"
+}, {
+    "title": "\n      36.\n      City Lights\n        (1931)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 114,223 user ratings"
+}, {
+    "title": "\n      37.\n      The Green Mile\n        (1999)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 824,505 user ratings"
+}, {
+    "title": "\n      38.\n      Raiders of the Lost Ark\n        (1981)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 687,111 user ratings"
+}, {
+    "title": "\n      39.\n      The Intouchables\n        (2011)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 535,730 user ratings"
+}, {
+    "title": "\n      40.\n      Modern Times\n        (1936)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 151,015 user ratings"
+}, {
+    "title": "\n      41.\n      Rear Window\n        (1954)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 329,733 user ratings"
+}, {
+    "title": "\n      42.\n      The Pianist\n        (2002)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 523,908 user ratings"
+}, {
+    "title": "\n      43.\n      The Departed\n        (2006)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 911,230 user ratings"
+}, {
+    "title": "\n      44.\n      Terminator 2: Judgment Day\n        (1991)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 773,666 user ratings"
+}, {
+    "title": "\n      45.\n      Back to the Future\n        (1985)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 767,519 user ratings"
+}, {
+    "title": "\n      46.\n      Whiplash\n        (2014)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 445,158 user ratings"
+}, {
+    "title": "\n      47.\n      Gladiator\n        (2000)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 1,024,354 user ratings"
+}, {
+    "title": "\n      48.\n      Memento\n        (2000)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 879,973 user ratings"
+}, {
+    "title": "\n      49.\n      Apocalypse Now\n        (1979)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 467,356 user ratings"
+}, {
+    "title": "\n      50.\n      The Prestige\n        (2006)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 884,144 user ratings"
+}, {
+    "title": "\n      51.\n      The Lion King\n        (1994)\n    ",
+    "rating": "\n            8.5\n    ",
+    "ratingTooltip": "8.5 based on 677,456 user ratings"
+}, {
+    "title": "\n      52.\n      Alien\n        (1979)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 589,075 user ratings"
+}, {
+    "title": "\n      53.\n      Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb\n        (1964)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 355,407 user ratings"
+}, {
+    "title": "\n      54.\n      Sunset Boulevard\n        (1950)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 145,376 user ratings"
+}, {
+    "title": "\n      55.\n      The Great Dictator\n        (1940)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 144,758 user ratings"
+}, {
+    "title": "\n      56.\n      The Lives of Others\n        (2006)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 270,632 user ratings"
+}, {
+    "title": "\n      57.\n      Cinema Paradiso\n        (1988)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 160,318 user ratings"
+}, {
+    "title": "\n      58.\n      Paths of Glory\n        (1957)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 126,581 user ratings"
+}, {
+    "title": "\n      59.\n      Grave of the Fireflies\n        (1988)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 147,552 user ratings"
+}, {
+    "title": "\n      60.\n      Django Unchained\n        (2012)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 1,004,565 user ratings"
+}, {
+    "title": "\n      61.\n      The Shining\n        (1980)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 639,287 user ratings"
+}, {
+    "title": "\n      62.\n      WALL·E\n        (2008)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 753,172 user ratings"
+}, {
+    "title": "\n      63.\n      American Beauty\n        (1999)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 854,519 user ratings"
+}, {
+    "title": "\n      64.\n      The Dark Knight Rises\n        (2012)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 1,190,864 user ratings"
+}, {
+    "title": "\n      65.\n      Princess Mononoke\n        (1997)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 234,024 user ratings"
+}, {
+    "title": "\n      66.\n      Aliens\n        (1986)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 506,784 user ratings"
+}, {
+    "title": "\n      67.\n      Oldboy\n        (2003)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 373,706 user ratings"
+}, {
+    "title": "\n      68.\n      Once Upon a Time in America\n        (1984)\n    ",
+    "rating": "\n            8.4\n    ",
+    "ratingTooltip": "8.4 based on 230,797 user ratings"
+}, {
+    "title": "\n      69.\n      Citizen Kane\n        (1941)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 308,932 user ratings"
+}, {
+    "title": "\n      70.\n      Das Boot\n        (1981)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 174,675 user ratings"
+}, {
+    "title": "\n      71.\n      Witness for the Prosecution\n        (1957)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 67,234 user ratings"
+}, {
+    "title": "\n      72.\n      North by Northwest\n        (1959)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 228,129 user ratings"
+}, {
+    "title": "\n      73.\n      Vertigo\n        (1958)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 260,781 user ratings"
+}, {
+    "title": "\n      74.\n      Star Wars: Episode VI - Return of the Jedi\n        (1983)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 718,036 user ratings"
+}, {
+    "title": "\n      75.\n      Reservoir Dogs\n        (1992)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 694,007 user ratings"
+}, {
+    "title": "\n      76.\n      M\n        (1931)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 103,159 user ratings"
+}, {
+    "title": "\n      77.\n      Braveheart\n        (1995)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 766,065 user ratings"
+}, {
+    "title": "\n      78.\n      Amélie\n        (2001)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 556,434 user ratings"
+}, {
+    "title": "\n      79.\n      Requiem for a Dream\n        (2000)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 596,943 user ratings"
+}, {
+    "title": "\n      80.\n      A Clockwork Orange\n        (1971)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 582,252 user ratings"
+}, {
+    "title": "\n      81.\n      Taxi Driver\n        (1976)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 530,495 user ratings"
+}, {
+    "title": "\n      82.\n      Lawrence of Arabia\n        (1962)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 200,850 user ratings"
+}, {
+    "title": "\n      83.\n      Like Stars on Earth\n        (2007)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 94,669 user ratings"
+}, {
+    "title": "\n      84.\n      Double Indemnity\n        (1944)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 102,080 user ratings"
+}, {
+    "title": "\n      85.\n      To Kill a Mockingbird\n        (1962)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 224,699 user ratings"
+}, {
+    "title": "\n      86.\n      Eternal Sunshine of the Spotless Mind\n        (2004)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 696,466 user ratings"
+}, {
+    "title": "\n      87.\n      Toy Story 3\n        (2010)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 569,484 user ratings"
+}, {
+    "title": "\n      88.\n      Amadeus\n        (1984)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 282,291 user ratings"
+}, {
+    "title": "\n      89.\n      My Father and My Son\n        (2005)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 41,402 user ratings"
+}, {
+    "title": "\n      90.\n      Full Metal Jacket\n        (1987)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 506,726 user ratings"
+}, {
+    "title": "\n      91.\n      The Sting\n        (1973)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 182,958 user ratings"
+}, {
+    "title": "\n      92.\n      2001: A Space Odyssey\n        (1968)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 446,814 user ratings"
+}, {
+    "title": "\n      93.\n      Singin' in the Rain\n        (1952)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 158,043 user ratings"
+}, {
+    "title": "\n      94.\n      Bicycle Thieves\n        (1948)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 99,371 user ratings"
+}, {
+    "title": "\n      95.\n      Toy Story\n        (1995)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 653,256 user ratings"
+}, {
+    "title": "\n      96.\n      Dangal\n        (2016)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 29,284 user ratings"
+}, {
+    "title": "\n      97.\n      Hacksaw Ridge\n        (2016)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 57,891 user ratings"
+}, {
+    "title": "\n      98.\n      Inglourious Basterds\n        (2009)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 928,470 user ratings"
+}, {
+    "title": "\n      99.\n      Snatch\n        (2000)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 623,487 user ratings"
+}, {
+    "title": "\n      100.\n      The Kid\n        (1921)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 72,131 user ratings"
+}, {
+    "title": "\n      101.\n      Monty Python and the Holy Grail\n        (1975)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 396,140 user ratings"
+}, {
+    "title": "\n      102.\n      L.A. Confidential\n        (1997)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 428,836 user ratings"
+}, {
+    "title": "\n      103.\n      3 Idiots\n        (2009)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 226,219 user ratings"
+}, {
+    "title": "\n      104.\n      For a Few Dollars More\n        (1965)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 165,333 user ratings"
+}, {
+    "title": "\n      105.\n      Scarface\n        (1983)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 560,007 user ratings"
+}, {
+    "title": "\n      106.\n      Rashomon\n        (1950)\n    ",
+    "rating": "\n            8.3\n    ",
+    "ratingTooltip": "8.3 based on 107,394 user ratings"
+}, {
+    "title": "\n      107.\n      The Apartment\n        (1960)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 114,412 user ratings"
+}, {
+    "title": "\n      108.\n      The Hunt\n        (2012)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 183,289 user ratings"
+}, {
+    "title": "\n      109.\n      Good Will Hunting\n        (1997)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 634,640 user ratings"
+}, {
+    "title": "\n      110.\n      Indiana Jones and the Last Crusade\n        (1989)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 537,144 user ratings"
+}, {
+    "title": "\n      111.\n      A Separation\n        (2011)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 159,298 user ratings"
+}, {
+    "title": "\n      112.\n      Metropolis\n        (1927)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 116,811 user ratings"
+}, {
+    "title": "\n      113.\n      Yojimbo\n        (1961)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 77,198 user ratings"
+}, {
+    "title": "\n      114.\n      All About Eve\n        (1950)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 86,112 user ratings"
+}, {
+    "title": "\n      115.\n      Batman Begins\n        (2005)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 1,021,415 user ratings"
+}, {
+    "title": "\n      116.\n      Up\n        (2009)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 699,193 user ratings"
+}, {
+    "title": "\n      117.\n      Some Like It Hot\n        (1959)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 182,204 user ratings"
+}, {
+    "title": "\n      118.\n      The Treasure of the Sierra Madre\n        (1948)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 82,402 user ratings"
+}, {
+    "title": "\n      119.\n      Unforgiven\n        (1992)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 288,640 user ratings"
+}, {
+    "title": "\n      120.\n      Downfall\n        (2004)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 258,196 user ratings"
+}, {
+    "title": "\n      121.\n      Raging Bull\n        (1980)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 243,946 user ratings"
+}, {
+    "title": "\n      122.\n      The Third Man\n        (1949)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 118,133 user ratings"
+}, {
+    "title": "\n      123.\n      Die Hard\n        (1988)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 615,879 user ratings"
+}, {
+    "title": "\n      124.\n      Children of Heaven\n        (1997)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 32,025 user ratings"
+}, {
+    "title": "\n      125.\n      The Great Escape\n        (1963)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 172,514 user ratings"
+}, {
+    "title": "\n      126.\n      Heat\n        (1995)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 446,985 user ratings"
+}, {
+    "title": "\n      127.\n      Chinatown\n        (1974)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 225,175 user ratings"
+}, {
+    "title": "\n      128.\n      Inside Out\n        (2015)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 389,429 user ratings"
+}, {
+    "title": "\n      129.\n      Pan's Labyrinth\n        (2006)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 486,141 user ratings"
+}, {
+    "title": "\n      130.\n      Ikiru\n        (1952)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 44,509 user ratings"
+}, {
+    "title": "\n      131.\n      My Neighbor Totoro\n        (1988)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 183,632 user ratings"
+}, {
+    "title": "\n      132.\n      On the Waterfront\n        (1954)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 105,142 user ratings"
+}, {
+    "title": "\n      133.\n      Room\n        (2015)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 200,982 user ratings"
+}, {
+    "title": "\n      134.\n      Ran\n        (1985)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 80,963 user ratings"
+}, {
+    "title": "\n      135.\n      The Gold Rush\n        (1925)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 71,234 user ratings"
+}, {
+    "title": "\n      136.\n      The Secret in Their Eyes\n        (2009)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 139,534 user ratings"
+}, {
+    "title": "\n      137.\n      The Bridge on the River Kwai\n        (1957)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 155,812 user ratings"
+}, {
+    "title": "\n      138.\n      Blade Runner\n        (1982)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 480,187 user ratings"
+}, {
+    "title": "\n      139.\n      Mr. Smith Goes to Washington\n        (1939)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 80,400 user ratings"
+}, {
+    "title": "\n      140.\n      The Seventh Seal\n        (1957)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 116,761 user ratings"
+}, {
+    "title": "\n      141.\n      Howl's Moving Castle\n        (2004)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 225,933 user ratings"
+}, {
+    "title": "\n      142.\n      Lock, Stock and Two Smoking Barrels\n        (1998)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 430,012 user ratings"
+}, {
+    "title": "\n      143.\n      Arrival\n        (2016)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 142,955 user ratings"
+}, {
+    "title": "\n      144.\n      Judgment at Nuremberg\n        (1961)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 47,052 user ratings"
+}, {
+    "title": "\n      145.\n      Casino\n        (1995)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 348,079 user ratings"
+}, {
+    "title": "\n      146.\n      The Bandit\n        (1996)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 38,018 user ratings"
+}, {
+    "title": "\n      147.\n      Incendies\n        (2010)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 87,802 user ratings"
+}, {
+    "title": "\n      148.\n      A Beautiful Mind\n        (2001)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 640,688 user ratings"
+}, {
+    "title": "\n      149.\n      A Wednesday\n        (2008)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 47,386 user ratings"
+}, {
+    "title": "\n      150.\n      The General\n        (1926)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 56,045 user ratings"
+}, {
+    "title": "\n      151.\n      Wild Strawberries\n        (1957)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 65,934 user ratings"
+}, {
+    "title": "\n      152.\n      The Elephant Man\n        (1980)\n    ",
+    "rating": "\n            8.2\n    ",
+    "ratingTooltip": "8.2 based on 168,386 user ratings"
+}, {
+    "title": "\n      153.\n      V for Vendetta\n        (2005)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 825,287 user ratings"
+}, {
+    "title": "\n      154.\n      Warrior\n        (2011)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 346,124 user ratings"
+}, {
+    "title": "\n      155.\n      The Wolf of Wall Street\n        (2013)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 830,972 user ratings"
+}, {
+    "title": "\n      156.\n      Sunrise\n        (1927)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 31,140 user ratings"
+}, {
+    "title": "\n      157.\n      The Passion of Joan of Arc\n        (1928)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 27,546 user ratings"
+}, {
+    "title": "\n      158.\n      Gran Torino\n        (2008)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 582,087 user ratings"
+}, {
+    "title": "\n      159.\n      Rang De Basanti\n        (2006)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 76,191 user ratings"
+}, {
+    "title": "\n      160.\n      Trainspotting\n        (1996)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 490,658 user ratings"
+}, {
+    "title": "\n      161.\n      Dial M for Murder\n        (1954)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 111,897 user ratings"
+}, {
+    "title": "\n      162.\n      The Big Lebowski\n        (1998)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 560,874 user ratings"
+}, {
+    "title": "\n      163.\n      Tokyo Story\n        (1953)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 29,133 user ratings"
+}, {
+    "title": "\n      164.\n      The Deer Hunter\n        (1978)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 241,759 user ratings"
+}, {
+    "title": "\n      165.\n      Gone with the Wind\n        (1939)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 223,394 user ratings"
+}, {
+    "title": "\n      166.\n      Fargo\n        (1996)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 473,589 user ratings"
+}, {
+    "title": "\n      167.\n      Finding Nemo\n        (2003)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 727,572 user ratings"
+}, {
+    "title": "\n      168.\n      Hera Pheri\n        (2000)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 34,656 user ratings"
+}, {
+    "title": "\n      169.\n      Andaz Apna Apna\n        (1994)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 35,910 user ratings"
+}, {
+    "title": "\n      170.\n      The Sixth Sense\n        (1999)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 730,317 user ratings"
+}, {
+    "title": "\n      171.\n      The Thing\n        (1982)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 270,698 user ratings"
+}, {
+    "title": "\n      172.\n      Cool Hand Luke\n        (1967)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 124,236 user ratings"
+}, {
+    "title": "\n      173.\n      Rebecca\n        (1940)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 90,968 user ratings"
+}, {
+    "title": "\n      174.\n      No Country for Old Men\n        (2007)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 640,796 user ratings"
+}, {
+    "title": "\n      175.\n      How to Train Your Dragon\n        (2010)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 508,411 user ratings"
+}, {
+    "title": "\n      176.\n      Munna Bhai M.B.B.S.\n        (2003)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 47,002 user ratings"
+}, {
+    "title": "\n      177.\n      Sholay\n        (1975)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 34,867 user ratings"
+}, {
+    "title": "\n      178.\n      Kill Bill: Vol. 1\n        (2003)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 765,650 user ratings"
+}, {
+    "title": "\n      179.\n      Into the Wild\n        (2007)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 445,918 user ratings"
+}, {
+    "title": "\n      180.\n      Mary and Max\n        (2009)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 125,208 user ratings"
+}, {
+    "title": "\n      181.\n      Gone Girl\n        (2014)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 610,057 user ratings"
+}, {
+    "title": "\n      182.\n      There Will Be Blood\n        (2007)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 389,694 user ratings"
+}, {
+    "title": "\n      183.\n      Come and See\n        (1985)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 28,268 user ratings"
+}, {
+    "title": "\n      184.\n      It Happened One Night\n        (1934)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 68,012 user ratings"
+}, {
+    "title": "\n      185.\n      Life of Brian\n        (1979)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 282,950 user ratings"
+}, {
+    "title": "\n      186.\n      Rush\n        (2013)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 329,205 user ratings"
+}, {
+    "title": "\n      187.\n      Hotel Rwanda\n        (2004)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 274,215 user ratings"
+}, {
+    "title": "\n      188.\n      Platoon\n        (1986)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 302,500 user ratings"
+}, {
+    "title": "\n      189.\n      Shutter Island\n        (2010)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 826,961 user ratings"
+}, {
+    "title": "\n      190.\n      Network\n        (1976)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 108,207 user ratings"
+}, {
+    "title": "\n      191.\n      The Wages of Fear\n        (1953)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 37,001 user ratings"
+}, {
+    "title": "\n      192.\n      Star Wars: The Force Awakens\n        (2015)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 629,528 user ratings"
+}, {
+    "title": "\n      193.\n      Stand by Me\n        (1986)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 283,301 user ratings"
+}, {
+    "title": "\n      194.\n      In the Name of the Father\n        (1993)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 115,317 user ratings"
+}, {
+    "title": "\n      195.\n      Spotlight\n        (2015)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 242,971 user ratings"
+}, {
+    "title": "\n      196.\n      Wild Tales\n        (2014)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 102,088 user ratings"
+}, {
+    "title": "\n      197.\n      The Nights of Cabiria\n        (1957)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 27,655 user ratings"
+}, {
+    "title": "\n      198.\n      Butch Cassidy and the Sundance Kid\n        (1969)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 158,199 user ratings"
+}, {
+    "title": "\n      199.\n      The 400 Blows\n        (1959)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 73,325 user ratings"
+}, {
+    "title": "\n      200.\n      Mad Max: Fury Road\n        (2015)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 602,431 user ratings"
+}, {
+    "title": "\n      201.\n      The Maltese Falcon\n        (1941)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 117,801 user ratings"
+}, {
+    "title": "\n      202.\n      12 Years a Slave\n        (2013)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 466,608 user ratings"
+}, {
+    "title": "\n      203.\n      Ben-Hur\n        (1959)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 168,602 user ratings"
+}, {
+    "title": "\n      204.\n      The Grand Budapest Hotel\n        (2014)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 509,208 user ratings"
+}, {
+    "title": "\n      205.\n      Persona\n        (1966)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 65,341 user ratings"
+}, {
+    "title": "\n      206.\n      Million Dollar Baby\n        (2004)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 501,818 user ratings"
+}, {
+    "title": "\n      207.\n      Amores Perros\n        (2000)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 179,743 user ratings"
+}, {
+    "title": "\n      208.\n      Jurassic Park\n        (1993)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 643,784 user ratings"
+}, {
+    "title": "\n      209.\n      The Princess Bride\n        (1987)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 305,409 user ratings"
+}, {
+    "title": "\n      210.\n      Hachi: A Dog's Tale\n        (2009)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 168,627 user ratings"
+}, {
+    "title": "\n      211.\n      Memories of Murder\n        (2003)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 72,461 user ratings"
+}, {
+    "title": "\n      212.\n      Drishyam\n        (2015)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 35,556 user ratings"
+}, {
+    "title": "\n      213.\n      Stalker\n        (1979)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 72,376 user ratings"
+}, {
+    "title": "\n      214.\n      Nausicaä of the Valley of the Wind\n        (1984)\n    ",
+    "rating": "\n            8.1\n    ",
+    "ratingTooltip": "8.1 based on 101,475 user ratings"
+}, {
+    "title": "\n      215.\n      The Truman Show\n        (1998)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 698,852 user ratings"
+}, {
+    "title": "\n      216.\n      The Grapes of Wrath\n        (1940)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 65,883 user ratings"
+}, {
+    "title": "\n      217.\n      Before Sunrise\n        (1995)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 193,122 user ratings"
+}, {
+    "title": "\n      218.\n      Touch of Evil\n        (1958)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 75,863 user ratings"
+}, {
+    "title": "\n      219.\n      Annie Hall\n        (1977)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 201,658 user ratings"
+}, {
+    "title": "\n      220.\n      The Message\n        (1976)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 33,951 user ratings"
+}, {
+    "title": "\n      221.\n      Rocky\n        (1976)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 393,613 user ratings"
+}, {
+    "title": "\n      222.\n      Gandhi\n        (1982)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 178,412 user ratings"
+}, {
+    "title": "\n      223.\n      Harry Potter and the Deathly Hallows: Part 2\n        (2011)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 571,242 user ratings"
+}, {
+    "title": "\n      224.\n      Diabolique\n        (1955)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 44,069 user ratings"
+}, {
+    "title": "\n      225.\n      The Bourne Ultimatum\n        (2007)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 513,182 user ratings"
+}, {
+    "title": "\n      226.\n      Donnie Darko\n        (2001)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 603,614 user ratings"
+}, {
+    "title": "\n      227.\n      Monsters, Inc.\n        (2001)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 614,424 user ratings"
+}, {
+    "title": "\n      228.\n      Prisoners\n        (2013)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 411,819 user ratings"
+}, {
+    "title": "\n      229.\n      8½\n        (1963)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 81,863 user ratings"
+}, {
+    "title": "\n      230.\n      The Terminator\n        (1984)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 624,385 user ratings"
+}, {
+    "title": "\n      231.\n      The Wizard of Oz\n        (1939)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 302,669 user ratings"
+}, {
+    "title": "\n      232.\n      Groundhog Day\n        (1993)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 456,266 user ratings"
+}, {
+    "title": "\n      233.\n      Catch Me If You Can\n        (2002)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 561,579 user ratings"
+}, {
+    "title": "\n      234.\n      Zootopia\n        (2016)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 254,847 user ratings"
+}, {
+    "title": "\n      235.\n      Twelve Monkeys\n        (1995)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 479,297 user ratings"
+}, {
+    "title": "\n      236.\n      La Haine\n        (1995)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 108,645 user ratings"
+}, {
+    "title": "\n      237.\n      Barry Lyndon\n        (1975)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 106,228 user ratings"
+}, {
+    "title": "\n      238.\n      Jaws\n        (1975)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 430,039 user ratings"
+}, {
+    "title": "\n      239.\n      Udaan\n        (2010)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 32,512 user ratings"
+}, {
+    "title": "\n      240.\n      The Best Years of Our Lives\n        (1946)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 41,918 user ratings"
+}, {
+    "title": "\n      241.\n      Infernal Affairs\n        (2002)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 95,274 user ratings"
+}, {
+    "title": "\n      242.\n      Strangers on a Train\n        (1951)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 100,661 user ratings"
+}, {
+    "title": "\n      243.\n      The Battle of Algiers\n        (1966)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 39,357 user ratings"
+}, {
+    "title": "\n      244.\n      Dog Day Afternoon\n        (1975)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 189,336 user ratings"
+}, {
+    "title": "\n      245.\n      Sin City\n        (2005)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 675,263 user ratings"
+}, {
+    "title": "\n      246.\n      Kind Hearts and Coronets\n        (1949)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 28,291 user ratings"
+}, {
+    "title": "\n      247.\n      The Help\n        (2011)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 332,165 user ratings"
+}, {
+    "title": "\n      248.\n      PK\n        (2014)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 95,484 user ratings"
+}, {
+    "title": "\n      249.\n      The Imitation Game\n        (2014)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 512,624 user ratings"
+}, {
+    "title": "\n      250.\n      Pirates of the Caribbean: The Curse of the Black Pearl\n        (2003)\n    ",
+    "rating": "\n            8.0\n    ",
+    "ratingTooltip": "8.0 based on 839,967 user ratings"
+}]
+"
